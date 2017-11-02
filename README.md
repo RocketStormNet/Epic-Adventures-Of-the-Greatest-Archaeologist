@@ -1,4 +1,4 @@
-# Epic Adventures Of the Greatest Archaeologist
+# Epic Adventures Of the Greatest Archaeologist ![](https://img.shields.io/badge/LudumDare-36-orange.svg)
 Small HTML5 game made for LudumDare 36 Jam
 made in 24 hours.
 
